@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "927668039998",
+    "project_id": "beauty-hack",
+    "storage_bucket": "beauty-hack.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:927668039998:android:c8b82c397d10628b0a3c6f",
+        "android_client_info": {
+          "package_name": "com.example.beauty_hack"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5qRCKYTwt5mjfxOGJvIfh3-rdfTHDfbQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
